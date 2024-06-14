@@ -1,4 +1,4 @@
-#Figma Color Card Plugin
+Figma Color Card Plugin
 
 The Figma Color Card Plugin simplifies the process of creating color reference cards directly within Figma. This plugin allows users to select any color from their design, generate a color card displaying its details (name, hex code, RGB values), and seamlessly integrate it into their Figma workspace.
 
