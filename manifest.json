@@ -1,0 +1,13 @@
+{
+    "name": "Figma Color Card Plugin",
+    "id": "figma-color-card-generator",  
+    "api": "1.0.0",
+    "main": "code.js",  
+    "ui": "ui.html",
+    "menu": {
+      "plugin-name": {
+        "title": "Figma Color Card Plugin",
+        "command": "color-card-plugin"
+      }
+    }
+  }
